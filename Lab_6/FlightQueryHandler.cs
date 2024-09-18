@@ -6,5 +6,6 @@ namespace LB6
 {
     public class FlightQueryHandler
     {
+
     }
 }
