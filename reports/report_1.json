@@ -1,0 +1,90 @@
+{
+  "ReportType": "Flight Number: BA836",
+  "Result": [
+    {
+      "FlightNumber": "BA836",
+      "Airline": "WizAir",
+      "Destination": "Kharkiv",
+      "DepartureTime": "2023-06-14T17:03:13",
+      "ArrivalTime": "2023-06-14T19:45:13",
+      "Gate": "B23",
+      "Status": 0,
+      "Duration": "02:42:00",
+      "AircraftType": "Boeing 787",
+      "Terminal": "4"
+    },
+    {
+      "FlightNumber": "BA836",
+      "Airline": "WizAir",
+      "Destination": "Odesa",
+      "DepartureTime": "2023-10-02T16:25:52",
+      "ArrivalTime": "2023-10-02T18:06:52",
+      "Gate": "C11",
+      "Status": 4,
+      "Duration": "01:41:00",
+      "AircraftType": "AN 148",
+      "Terminal": "4"
+    },
+    {
+      "FlightNumber": "BA836",
+      "Airline": "Turkish Airlines",
+      "Destination": "Kharkiv",
+      "DepartureTime": "2023-05-13T07:42:26",
+      "ArrivalTime": "2023-05-13T11:11:26",
+      "Gate": "C16",
+      "Status": 1,
+      "Duration": "03:29:00",
+      "AircraftType": "Boeing 757",
+      "Terminal": "1"
+    },
+    {
+      "FlightNumber": "BA836",
+      "Airline": "MAU",
+      "Destination": "Dnipro",
+      "DepartureTime": "2023-11-22T07:43:29",
+      "ArrivalTime": "2023-11-22T11:39:29",
+      "Gate": "F16",
+      "Status": 2,
+      "Duration": "03:56:00",
+      "AircraftType": "Boeing 737",
+      "Terminal": "1"
+    },
+    {
+      "FlightNumber": "BA836",
+      "Airline": "Turkish Airlines",
+      "Destination": "Barcelona",
+      "DepartureTime": "2023-07-30T10:50:08",
+      "ArrivalTime": "2023-07-30T12:02:08",
+      "Gate": "B23",
+      "Status": 4,
+      "Duration": "01:12:00",
+      "AircraftType": "Boeing 737",
+      "Terminal": "2"
+    },
+    {
+      "FlightNumber": "BA836",
+      "Airline": "WizAir",
+      "Destination": "Dnipro",
+      "DepartureTime": "2023-01-11T02:08:06",
+      "ArrivalTime": "2023-01-11T08:27:06",
+      "Gate": "D15",
+      "Status": 3,
+      "Duration": "06:19:00",
+      "AircraftType": "Airbus A320",
+      "Terminal": "2"
+    },
+    {
+      "FlightNumber": "BA836",
+      "Airline": "WizAir",
+      "Destination": "Berlin",
+      "DepartureTime": "2023-06-20T12:00:04",
+      "ArrivalTime": "2023-06-20T18:17:04",
+      "Gate": "D16",
+      "Status": 2,
+      "Duration": "06:17:00",
+      "AircraftType": "Boeing 757",
+      "Terminal": "3"
+    }
+  ],
+  "GeneratedAt": "2024-09-24T21:52:35.4902325+03:00"
+}
